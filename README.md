@@ -1,4 +1,4 @@
-# SciFlows Web Application
+# SciFlows Web Application Notebooks
 
 Academic Mobility Flows Explorer (1980-2022)
 
