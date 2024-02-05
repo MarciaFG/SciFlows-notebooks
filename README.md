@@ -1,9 +1,10 @@
-# skill-flow
-Academic Mobility Flows (1980-2022)
-Global Talent Flows: The Academic Mobility Flows Webtool
+# SciFlows Web Application
+Academic Mobility Flows Explorer (1980-2022)
 Author: Marcia R. Ferreira (Complexity Science Hub Vienna & TU Wien)
 
-The best way to send information is to wrap it up in a person. (Julius Robert Oppenheimer, 1948)
+"The best way to send information is to wrap it up in a person."
+
+(Julius Robert Oppenheimer, 1948)
 
 How do academic talents travel around the world?
 Where do researchers go when they change affiliations? And where do they come from?
@@ -17,5 +18,7 @@ Disclaimer: This data is not intended for commercialization or consulting and th
 For more information about the project contact me on here: Márcia R. Ferreira
 
 Input: Dimensions database on BigQuery
+
 Latest version: [https://vis.csh.ac.at/skill-flows/#](https://vis.csh.ac.at/sciflows/#/)
+
 Github repository: https://github.com/MarciaFG/skill-flow
