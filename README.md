@@ -17,7 +17,5 @@ Disclaimer: This data is not intended for commercialization or consulting and th
 For more information about the project contact me on here: Márcia R. Ferreira
 
 Input: Dimensions database on BigQuery
-Output: Folder containing documentation about the project:
-https://drive.google.com/drive/folders/1Ac7nL2zzi8Q1crN1NaoSzzk_8YSBxD60?usp=sharing
-Latest version: https://vis.csh.ac.at/skill-flows/#
+Latest version: [https://vis.csh.ac.at/skill-flows/#](https://vis.csh.ac.at/sciflows/#/)
 Github repository: https://github.com/MarciaFG/skill-flow
