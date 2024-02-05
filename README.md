@@ -1,9 +1,10 @@
 # SciFlows Web Application
+
 Academic Mobility Flows Explorer (1980-2022)
+
 Author: Marcia R. Ferreira (Complexity Science Hub Vienna & TU Wien)
 
 "The best way to send information is to wrap it up in a person."
-
 (Julius Robert Oppenheimer, 1948)
 
 - How do academic talents travel around the world?
